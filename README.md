@@ -9,9 +9,9 @@ Antes de continuar é necessário ter acesso ROOT no dispositivo.
 
 3 - Ao terminar, digite wget bit.ly/AndroidLPlay
 
-4 - Ao terminar, digite chmod 755 AndroidLP
+4 - Ao terminar, digite chmod 755 AndroidLPlay
 
-5 - Ao terminar, digite ./AndroidLP
+5 - Ao terminar, digite ./AndroidLPlay
 
 Ao término do procedimento acima o seu dispositivo estará pronto para rodar o Lan Play.
 
