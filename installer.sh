@@ -1,11 +1,11 @@
 #!/bin/bash
-pkg install tsu
-pkg install cmake
-pkg install make
-pkg install clang 
-pkg install libpcap 
-pkg install libuv 
-pkg install git
+pkg install tsu -y
+pkg install cmake -y
+pkg install make -y
+pkg install clang -y
+pkg install libpcap -y
+pkg install libuv -y
+pkg install git -y
 git clone https://github.com/patrycklm/switch-lan-play.git
 mkdir switch-lan-play/build
 pushd switch-lan-play/build
