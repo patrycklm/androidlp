@@ -1,0 +1,2 @@
+tsudo ./lan-play
+--pmtu 1500 --relay-server-addr lanplay.duckdns.org:11451
