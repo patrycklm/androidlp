@@ -8,3 +8,8 @@ make
 popd
 cp ./switch-lan-play/build/src/lan-play .
 export LD_LIBRARY_PATH=/data/data/com.termux/files/usr/lib
+cd
+wget https://raw.githubusercontent.com/patrycklm/androidlp/master/patrycklm
+wget https://raw.githubusercontent.com/patrycklm/androidlp/master/ps4
+chmod 755 patrycklm
+chmod 755 ps4
