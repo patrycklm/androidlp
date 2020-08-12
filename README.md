@@ -18,3 +18,10 @@ Para se conectar ao servidor desejado abra o Termux e siga os passos abaixo.
 1 - Para se conectar ao servidor padrão e oficial do PS4 digite ./patrycklm 
 
 2 - Para se conectar ao servidor secundário digite ./ps4
+
+
+
+Para se conectar:
+
+tsudo ./lan-play
+--pmtu 1500 --relay-server-addr lanplay.duckdns.org:11451
