@@ -2,13 +2,16 @@ Manual
 
 Antes de continuar é necessário ter acesso ROOT no dispositivo.
 
+
 1 - Baixe o app Termux do google Playstore
 
-2 - Abre o Termux e digite wget bit.ly/AndroidLPlay
+2 - Abre o Termux e digite pkg install wget
 
-3 - Ao terminar, digite chmod 755 AndroidLP
+3 - Ao terminar, digite wget bit.ly/AndroidLPlay
 
-4 - Ao terminar, digite ./AndroidLP
+4 - Ao terminar, digite chmod 755 AndroidLP
+
+5 - Ao terminar, digite ./AndroidLP
 
 Ao término do procedimento acima o seu dispositivo estará pronto para rodar o Lan Play.
 
